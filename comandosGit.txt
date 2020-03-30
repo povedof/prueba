@@ -1,0 +1,9 @@
+Clonar repo
+git clone https://github.com/povedof/prueba.git
+
+Agregar archivo para versionar
+git add comandos.git
+
+Commit
+git commit -m "first commit"
+
